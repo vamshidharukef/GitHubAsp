@@ -1,1 +1,13 @@
-![](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjB1ti34uXXAhVCuI8KHboiD3wQjRwIBw&url=https%3A%2F%2Fgithub.com%2F&psig=AOvVaw30Jf6WSrlL3MBQjdePibSQ&ust=1512113107478687)
+## Overview
+
+![](http://bit.ly/2nh5uv1)
+
+GitHub is a web-based Git or version control repository. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features but it doesn't have an integrated build server.
+
+We can overcome this shortfall by using Visual Studio Team Services (VSTS) as a continuous integration platform for Github. This lab will demonstrate how to achieve this using the following steps:
+
+- Fork project repository to your github account
+- Link the GitHub account to VSTS
+- Editing the existing Build Definition to include source code from GitHub
+- Configure the Triggers
+- Execute the Build
